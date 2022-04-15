@@ -1,0 +1,51 @@
+[
+    {
+        "id": "6255c61aac946e85a1b9e69d",
+        "name": "Polo T-Shirt",
+        "price": 200,
+        "brand": "Polo",
+        "img": "https://image.made-in-china.com/44f3j00aiYTGfhsIebl/Custom-T-Shirts-100-Cotton-Men-Tshirt-Tee-Shirt-Printing-T-Shirt-Polo-T-Shirt-for-Men-Women-Plain-T-Shirt.jpg"
+    },
+    {
+        "id": "6255c61afdeb584769d25fd2",
+        "name": "White T-shirt",
+        "price": 220,
+        "brand": "Oxfordshire Mind",
+        "img": "https://www.oxfordshiremind.org.uk/app/uploads/2019/08/tshirt.png"
+    },
+    {
+        "id": "6255c61a2b68c58b6228eb8f",
+        "name": "Custom T-shirts",
+        "price": 230,
+        "brand": "Coffee Shack",
+        "img": "https://content-management-files.canva.com/cdn-cgi/image/f=auto,q=70/2fdbd7ab-f378-4c63-8b21-c944ad2633fd/header_t-shirts2.jpg"
+    },
+    {
+        "id": "6255c61a87da824423b3a4e4",
+        "name": "Men T-shirt",
+        "price": 300,
+        "brand": "Stylish Elegant",
+        "img": "https://5.imimg.com/data5/YX/OO/TA/ANDROID-108727015/product-jpeg-500x500.jpg"
+    },
+    {
+        "id": "6255c61ae639834c21b12cfa",
+        "name": "Men T-shirt",
+        "price": 400,
+        "brand": "Wear Mart",
+        "img": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2016/12/attachment_89561603-e1513587105243.jpg?"
+    },
+    {
+        "id": "6255c61a69e13592bcbedb1c",
+        "name": "Malayali T-shirt",
+        "price": 350,
+        "brand": "UNISEX Comfort",
+        "img": "https://www.mydesignation.com/wp-content/uploads/2019/08/malayali-tshirt-mydesignation-mockup-image-latest-golden-.jpg"
+    },
+    {
+        "id": "6255c61ab621e5cc934945b1",
+        "name": "Go Goa T-shirt",
+        "price": 230,
+        "brand": "BonorGanik Travel",
+        "img": "https://m.media-amazon.com/images/I/61gqx7hslmL._UX569_.jpg"
+    }
+]
